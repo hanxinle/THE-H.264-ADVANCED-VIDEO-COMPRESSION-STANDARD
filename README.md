@@ -12,5 +12,3 @@
 
 **欢迎大家添加我的微信交流：15715650340**
 
-![WeChat](https://github.com/lazybing/THE-H.264-ADVANCED-VIDEO-COMPRESSION-STANDARD/blob/main/image/weixin.png?raw=true)
-
