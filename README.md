@@ -9,3 +9,5 @@
 - [ ] [第七章 H.264 变换与编码](https://github.com/lazybing/THE-H.264-ADVANCED-VIDEO-COMPRESSION-STANDARD/blob/main/ch07.md)   
 - [x] [第八章 H.264一致性、传输和许可](https://github.com/lazybing/THE-H.264-ADVANCED-VIDEO-COMPRESSION-STANDARD/blob/main/ch08.md)   
 - [x] [第九章 H.264 性能](https://github.com/lazybing/THE-H.264-ADVANCED-VIDEO-COMPRESSION-STANDARD/blob/main/ch09.md)  
+
+**欢迎大家添加我的微信交流：15715650340**
